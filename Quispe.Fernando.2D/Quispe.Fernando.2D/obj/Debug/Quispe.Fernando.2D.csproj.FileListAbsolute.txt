@@ -1,0 +1,28 @@
+C:\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\bin\Debug\Quispe.Fernando.2D.exe.config
+C:\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\bin\Debug\Quispe.Fernando.2D.exe
+C:\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\bin\Debug\Quispe.Fernando.2D.pdb
+C:\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\obj\Debug\Quispe.Fernando.2D.csprojAssemblyReference.cache
+C:\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\obj\Debug\Quispe.Fernando._2D.FrmPpal.resources
+C:\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\obj\Debug\Quispe.Fernando._2D.Properties.Resources.resources
+C:\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\obj\Debug\Quispe.Fernando.2D.csproj.GenerateResource.cache
+C:\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\obj\Debug\Quispe.Fernando.2D.csproj.CoreCompileInputs.cache
+C:\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\obj\Debug\Quispe.Fernando.2D.exe
+C:\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\obj\Debug\Quispe.Fernando.2D.pdb
+C:\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\bin\Debug\Entidades.dll
+C:\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\bin\Debug\Entidades.pdb
+C:\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\obj\Debug\Quispe.Fernando._2D.FrmEvaluaciones.resources
+C:\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\obj\Debug\Quispe.Fernando.2D.csproj.CopyComplete
+C:\UTN SP domingo\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\obj\Debug\Quispe.Fernando.2D.csprojAssemblyReference.cache
+C:\UTN SP domingo\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\obj\Debug\Quispe.Fernando._2D.FrmEvaluaciones.resources
+C:\UTN SP domingo\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\obj\Debug\Quispe.Fernando._2D.FrmPpal.resources
+C:\UTN SP domingo\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\obj\Debug\Quispe.Fernando._2D.Properties.Resources.resources
+C:\UTN SP domingo\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\obj\Debug\Quispe.Fernando.2D.csproj.GenerateResource.cache
+C:\UTN SP domingo\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\obj\Debug\Quispe.Fernando.2D.csproj.CoreCompileInputs.cache
+C:\UTN SP domingo\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\obj\Debug\Quispe.Fernando.2D.exe
+C:\UTN SP domingo\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\obj\Debug\Quispe.Fernando.2D.pdb
+C:\UTN SP domingo\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\bin\Debug\Quispe.Fernando.2D.exe.config
+C:\UTN SP domingo\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\bin\Debug\Quispe.Fernando.2D.exe
+C:\UTN SP domingo\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\bin\Debug\Quispe.Fernando.2D.pdb
+C:\UTN SP domingo\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\bin\Debug\Entidades.dll
+C:\UTN SP domingo\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\bin\Debug\Entidades.pdb
+C:\UTN SP domingo\UTN SP\Quispe.Fernando.2D\Quispe.Fernando.2D\obj\Debug\Quispe.Fernando.2D.csproj.CopyComplete
